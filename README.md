@@ -15,7 +15,7 @@ In this section, I'm exploring PyTorch, a popular deep learning framework. I'm u
 | Title                                                         | Status         | Additional Resources                                    |
 | ------------------------------------------------------------- | -------------- | ------------------------------------------------------- |
 | [Youtube Tutorial of "Learn PyTorch for Deep Learning: Zero to Mastery" until chapter 4](https://www.youtube.com/watch?v=V_xro1bcAuA) | Done           | |
-| [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) | Finished: 0, 1, 2, 3, 4, 5, 6, 7 | |
+| [Learn PyTorch for Deep Learning: Zero to Mastery book](https://www.learnpytorch.io/) | Completed Chapters: 0, 1, 2, 3, 4, 5, 6, 7 | |
 
 ## Machine Learning
 
